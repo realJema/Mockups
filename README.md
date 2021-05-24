@@ -1,2 +1,2 @@
-# Mockups
-Beautiful designs I hope to build someday 
+# Assignment
+Buiding on a mockup
